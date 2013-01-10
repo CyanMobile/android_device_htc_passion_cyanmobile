@@ -1,6 +1,10 @@
 #
 # system.prop for Passion
 #
+
+# hardware info
+ro.device.gpu=Qualcomm Adreno 200
+
 DEVICE_PROVISIONED=1
 debug.composition.type=gpu
 persist.sys.composition.type=gpu
