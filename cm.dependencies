@@ -1,0 +1,7 @@
+[
+    {
+      "repository": "android_kernel_htc_msm_cyanmobile",
+      "target_path": "kernel/htc/msm",
+      "branch": "android-msm-2.6.37"
+    }
+]
