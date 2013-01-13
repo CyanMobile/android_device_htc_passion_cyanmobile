@@ -1,5 +1,13 @@
 [
     {
+      "repository": "android_device_htc_common_cyanmobile",
+      "target_path": "device/htc/common"
+    },
+    {
+      "repository": "android_device_htc_passion-common_cyanmobile",
+      "target_path": "device/htc/passion-common"
+    },
+    {
       "repository": "android_kernel_htc_msm_cyanmobile",
       "target_path": "kernel/htc/msm",
       "branch": "android-msm-2.6.37"
